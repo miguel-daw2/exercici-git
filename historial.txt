@@ -1,0 +1,6 @@
+* e2cbf00 Afegir modul
+| * 8729197 Afegir contacte
+|/  
+* 182c476 Afegir gitignore
+* 095a461 Primer commit
+* 04e666c first commit
